@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <payAccount>25899014786256</payAccount>
+    <receiveAccount>44348490543433</receiveAccount>
+    <sum>5444500</sum>
+  </Order>
+  <Order>
+    <payAccount>15869548324589</payAccount>
+    <receiveAccount>14589678504198</receiveAccount>
+    <sum>186800</sum>
+  </Order>
+  <Order>
+    <payAccount>25987458203698</payAccount>
+    <receiveAccount>50478046147892</receiveAccount>
+    <sum>84864</sum>
+  </Order>
+  <Order>
+    <payAccount>25899016786777</payAccount>
+    <receiveAccount>44765765646789</receiveAccount>
+    <sum>5400</sum>
+  </Order>
+  <Order>
+    <payAccount>15869548324589</payAccount>
+    <receiveAccount>14589678504198</receiveAccount>
+    <sum>1800</sum>
+  </Order>
+  <Order>
+    <payAccount>25987456786698</payAccount>
+    <receiveAccount>50477567547892</receiveAccount>
+    <sum>842904</sum>
+  </Order>
+</ArrayOfOrder>
